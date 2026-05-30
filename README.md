@@ -6,16 +6,16 @@ An end-to-end Machine Learning project designed to predict consumer purchase beh
 Below are the visual summaries of the project execution and data analysis:
 
 ### 1. Project Performance Hook
-![Hook Stat](.Images/linkedin_1_hook_stat.png)
+![Hook Stat](./Images/linkedin_1_hook_stat.png)
 
 ### 2. Model Performance Results
-![Results Chart](.Images/linkedin_2_results_chart.png)
+![Results Chart](./Images/linkedin_2_results_chart.png)
 
 ### 3. Decision Tree Architecture
-![Decision Tree](.Images/linkedin_3_decision_tree.png)
+![Decision Tree](./Images/linkedin_3_decision_tree.png)
 
 ### 4. Project Executive Summary
-![Summary Card](./linkedin_4_summary_card.png)
+![Summary Card](./Images/linkedin_4_summary_card.png)
 
 ---
 
