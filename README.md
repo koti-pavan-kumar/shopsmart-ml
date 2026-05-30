@@ -22,4 +22,4 @@ Below are the visual summaries of the project execution and data analysis:
 ## 💻 How to View the Full Code
 GitHub's built-in notebook viewer is currently experiencing a rendering timeout due to layout structures. You can access and read through the complete source code, markdown explanations, and functions using the live external mirror below:
 
-👉 **[View Complete Jupyter Notebook via Google Colab]([PASTE_YOUR_COLAB_SHARE_LINK_HERE](https://drive.google.com/drive/u/0/folders/1GMGtfwOz8zXSfHOiSO-DEt66a-9CsEET))**
+👉 **[View Complete Jupyter Notebook via Google Colab](https://drive.google.com/drive/u/0/folders/1GMGtfwOz8zXSfHOiSO-DEt66a-9CsEET)**
